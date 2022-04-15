@@ -54,22 +54,9 @@ char	*get_next_line(int fd)
 		}
 		result = ft_join(result, buf);
 		i++;
+		if (buf[0] == '\n')
+			break ;
 		retour = read(fd, buf, 1);
 	}
 	return (ft_return(i, result));
 }
-
-/* int		main(int ac, char **av)
-{
-	int		fd;
-	char	*line = NULL;
-
-	fd = open (av[1], O_RDONLY);
-	while ((line = get_next_line(fd)) != NULL)
-	{
-		printf("%s\n", line);
-		free (line);
-	}
-	close (fd);
-	return (fd == -1 ? EXIT_FAILURE : EXIT_SUCCESS);
-} */
