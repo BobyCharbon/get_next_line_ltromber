@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pierremoretton <pierremoretton@student.    +#+  +:+       +#+        */
+/*   By: ludovictrombert <ludovictrombert@studen    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/02/08 15:25:20 by pierremoret       #+#    #+#             */
-/*   Updated: 2022/04/19 17:06:59 by pierremoret      ###   ########.fr       */
+/*   Created: 2022/04/25 14:09:34 by ludovictrom       #+#    #+#             */
+/*   Updated: 2022/04/25 14:10:30 by ludovictrom      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
