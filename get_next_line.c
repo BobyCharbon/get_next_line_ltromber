@@ -105,7 +105,6 @@ char	*get_next_line(int fd)
 	return (line);
 }
 
-//test
 
 /* int		main(int ac, char **av)
 {
