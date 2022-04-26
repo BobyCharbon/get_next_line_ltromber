@@ -105,6 +105,8 @@ char	*get_next_line(int fd)
 	return (line);
 }
 
+//test
+
 /* int		main(int ac, char **av)
 {
 	int		fd;
@@ -112,6 +114,7 @@ char	*get_next_line(int fd)
 
 	fd = open (av[1], O_RDONLY);
 	while ((line = get_next_line(fd)) != NULL)
+	
 	{
 		printf("%s\n", line);
 		free (line);
