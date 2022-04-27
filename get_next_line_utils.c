@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ludovictrombert <ludovictrombert@studen    +#+  +:+       +#+        */
+/*   By: ltromber <ltromber@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/25 14:09:50 by ludovictrom       #+#    #+#             */
-/*   Updated: 2022/04/25 14:09:55 by ludovictrom      ###   ########.fr       */
+/*   Updated: 2022/04/27 15:12:20 by ltromber         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

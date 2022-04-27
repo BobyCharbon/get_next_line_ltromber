@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ludovictrombert <ludovictrombert@studen    +#+  +:+       +#+        */
+/*   By: ltromber <ltromber@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/25 14:09:34 by ludovictrom       #+#    #+#             */
-/*   Updated: 2022/04/25 14:10:30 by ludovictrom      ###   ########.fr       */
+/*   Updated: 2022/04/27 15:12:18 by ltromber         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -104,7 +104,6 @@ char	*get_next_line(int fd)
 	save = ft_save(save);
 	return (line);
 }
-
 
 /* int		main(int ac, char **av)
 {
